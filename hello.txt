@@ -1,2 +1,3 @@
 Hello Git and GitHub ! This is a new Feature!
 This is my first change
+This line was added from the terminal!
